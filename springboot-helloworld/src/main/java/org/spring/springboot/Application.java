@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * Created by bysocket on 16/4/26.
  */
-// Spring Boot 应用的标识
+// Spring Boot 应用的标识xiug
 @SpringBootApplication
 public class Application {
 
